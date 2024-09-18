@@ -72,6 +72,7 @@ console.log(basics)
 - Add `SEVDESK_API_KEY=replace-with-your-secret-api-key` to `.env` file in project root
 - Run playground using `pnpm play`
 - Run interactive tests using `pnpm dev`
+- Run `sh generate.sh` (docker required) to update client based on [`https://api.sevdesk.de/openapi.yaml`](https://api.sevdesk.de/openapi.yaml).
 
 </details>
 
