@@ -1,11 +1,8 @@
 # @itplusx/sevdesk-api-ts-client
 
-<!-- automd:badges -->
-
-[![npm version](https://flat.badgen.net/npm/v/@itplusx/sevdesk-api-ts-client)](https://www.npmjs.com/package/@itplusx/sevdesk-api-ts-client)
-[![npm downloads](https://flat.badgen.net/npm/dm/@itplusx/sevdesk-api-ts-client)](https://www.npmjs.com/package/@itplusx/sevdesk-api-ts-client)
-
-<!-- /automd -->
+![NPM Version](https://img.shields.io/npm/v/%40itplusx%2Fsevdesk-api-ts-client)
+![NPM License](https://img.shields.io/npm/l/%40itplusx%2Fsevdesk-api-ts-client)
+![NPM Downloads](https://img.shields.io/npm/dm/%40itplusx%2Fsevdesk-api-ts-client)
 
 TypeScript Client for [sevdesk API (2.0.0)](https://api.sevdesk.de/)
 
